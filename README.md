@@ -4,6 +4,6 @@ Code to plan the optimal footstep trajectory for a hopping robot around obstacle
 
 ## REQUIRED
 
-MATLAB
-    YALMIP 
-    Gurobi
+* MATLAB \n
+    * YALMIP 
+    * Gurobi
